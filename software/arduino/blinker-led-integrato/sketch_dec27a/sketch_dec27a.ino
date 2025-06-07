@@ -1,5 +1,9 @@
 /**
  * fa lampeggiare il led a bordo della scheda
+ *
+ * NOTA IMPORTANTE questo blinker è bloccante, normalmente non è una buona idea usare delay() in questo modo,
+ * per un blinker migliore si veda lo sketch blinker-non-bloccante
+ *
  */
 
 void setup()
