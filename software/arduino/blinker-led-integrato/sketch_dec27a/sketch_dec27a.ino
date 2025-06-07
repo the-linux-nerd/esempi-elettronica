@@ -6,6 +6,7 @@
  *
  */
 
+// setup dell'ambiente
 void setup()
 {
 
@@ -14,6 +15,7 @@ void setup()
 
 }
 
+// ciclo principale del programma
 void loop()
 {
 
