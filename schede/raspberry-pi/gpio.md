@@ -20,3 +20,4 @@ echo 21 > /sys/class/gpio/unexport
 ```
 # link-o-grafia
 - https://www.raspberrypi-spy.co.uk/2014/07/raspberry-pi-b-gpio-header-details-and-pinout/
+- https://youtu.be/llI9TFglIFY?si=mzbhpJldXRj6AYl6
