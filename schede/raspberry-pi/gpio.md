@@ -1,5 +1,4 @@
 # introduzione ai pin GPIO di Raspberry Pi
-![image](https://github.com/user-attachments/assets/baef4ef7-3df8-4649-8a2a-f93acea5a667)
 
 ## utilizzare un pin GPIO in scrittura
 Si supponga di voler abilitare il pin GPIO 21 in OUTPUT:
