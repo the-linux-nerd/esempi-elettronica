@@ -7,8 +7,7 @@
  */
 
 // setup dell'ambiente
-void setup()
-{
+void setup() {
 
   // setta il pin del led a bordo scheda come output
   pinMode(LED_BUILTIN, OUTPUT);
@@ -16,8 +15,7 @@ void setup()
 }
 
 // ciclo principale del programma
-void loop()
-{
+void loop() {
 
   // scrive 1 sul led a bordo scheda
   digitalWrite(LED_BUILTIN, HIGH);
