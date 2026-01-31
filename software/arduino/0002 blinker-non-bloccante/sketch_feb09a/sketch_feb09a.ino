@@ -1,6 +1,6 @@
 
 /**
- * fa lampeggiare il led a bordo della scheda in modalità non bloccante
+ * fa lampeggiare un led esterno tramite un transistor
  * 
  * con questo programma colleghiamo per la prima volta un componente esterno ad Arduino,
  * il mio suggerimento è di utilizzare una piccola breadboard come si può vedere nel file
@@ -18,7 +18,7 @@ unsigned long tempo;
 // setup dell'ambiente
 void setup() {
 
-  // setto il pin del led a bordo scheda come output
+  // setto il pin del transistor come output
   pinMode(TRANSISTOR_PIN, OUTPUT);
 
   // salvo il tempo del setup
